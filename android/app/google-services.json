@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023091006574",
+    "project_id": "kaluu-express",
+    "storage_bucket": "kaluu-express.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023091006574:android:de54be57d2656becd15a7f",
+        "android_client_info": {
+          "package_name": "com.kaluu.express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GB36MeryBna4lQ4aRU2z-yPg28gqsEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
